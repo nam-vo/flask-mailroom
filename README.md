@@ -1,6 +1,6 @@
 # Flask Mailroom Application
 
-Running at [http://http://young-wave-22723.herokuapp.com/donations/](http://http://young-wave-22723.herokuapp.com/donations/).
+Running at [http://young-wave-22723.herokuapp.com/donations/](http://young-wave-22723.herokuapp.com/donations/).
 
 ## Your Task
 
